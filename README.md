@@ -80,3 +80,4 @@ _NOTE:_ This exercise has minimal flexbox implications, and is mainly about revi
 Our sneaker store can flex to support different screen sizes, but there isn't a proper mobile or tablet view. Don't fret — we will revisit this workshop in a future module!
 
 In the meantime, take a moment to congratulate yourself for making it through the Flexbox module!!
+# sole-and-ankle
